@@ -1,0 +1,3 @@
+# Siber Kahraman Görevleri için gereksinimler
+# tkinter çoğu sistemde yüklü gelir, harici yükleme gerekmez
+reportlab 
